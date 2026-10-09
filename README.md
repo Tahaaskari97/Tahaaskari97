@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Taha Ali Askari</h1>
-<h3 align="center">Software Engineer | MERN Stack | NextJs | React Native | Freelancer</h3>
+<h3 align="center">Senior Software Engineer | MERN Stack | NextJs | React Native | Freelancer</h3>
 
 - 🔭 I’m currently working on [Media Planning Tool](https://mpt.alliancez.com/)
 
